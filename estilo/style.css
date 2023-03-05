@@ -53,7 +53,7 @@ header > h1{
   
 }
 
-header p{
+header > p{
     color: white;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
